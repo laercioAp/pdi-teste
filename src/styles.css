@@ -2074,7 +2074,7 @@ progress {
   border-color: #dfe0e1;
 }
 
-.table-dark {
+/* .table-dark {
   --bs-table-bg: #212529;
   --bs-table-striped-bg: #2c3034;
   --bs-table-striped-color: #fff;
@@ -2084,7 +2084,7 @@ progress {
   --bs-table-hover-color: #fff;
   color: #fff;
   border-color: #373b3e;
-}
+} */
 
 .table-responsive {
   overflow-x: auto;
